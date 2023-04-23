@@ -1,0 +1,11 @@
+assets/plugins/
+assets/scripts/
+Classes/
+reports/
+resources/
+database/gestproy.sql
+
+
+# local env files
+.env*.local
+.env
